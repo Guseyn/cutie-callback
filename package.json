@@ -25,6 +25,9 @@
   "bugs": {
     "url": "https://github.com/Guseyn/cutie-callback/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/Guseyn/cutie-callback#readme",
   "dependencies": {
     "@cuties/assert": "^1.2.2",
