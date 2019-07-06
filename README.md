@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/Guseyn/cutie-callback.svg?branch=master)](https://travis-ci.org/Guseyn/cutie-callback)
 [![codecov](https://codecov.io/gh/Guseyn/cutie-callback/branch/master/graph/badge.svg)](https://codecov.io/gh/Guseyn/cutie-callback)
 
-[Cutie](https://github.com/Guseyn/cutie) extension for work with </b>callback</b> as a async object. It's based on the [Async Tree Pattern](https://github.com/Guseyn/async-tree-patern/blob/master/Async_Tree_Patern.pdf).
+[Cutie](https://github.com/Guseyn/cutie) extension for work with a </b>callback</b> as an async object. It's based on the [Async Tree Pattern](https://github.com/Guseyn/async-tree-patern/blob/master/Async_Tree_Patern.pdf).
 
 
 ## Examples
