@@ -1,6 +1,6 @@
 {
   "name": "@cuties/callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cutie extension for work with callback as a async object",
   "main": "index.js",
   "directories": {
